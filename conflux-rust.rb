@@ -1,5 +1,5 @@
 # Build from source
-class Conflux < Formula
+class ConfluxRust < Formula
   desc "Official Rust implementation of the Conflux protocol"
   homepage "https://github.com/conflux-chain/conflux-rust"
   url "https://github.com/conflux-chain/conflux-rust.git", :tag => "v1.1.4"

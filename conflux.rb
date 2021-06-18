@@ -1,4 +1,4 @@
-class ConfluxRust < Formula
+class Conflux < Formula
   desc "Official Rust implementation of Conflux protocol"
   homepage "https://confluxnetwork.org/"
   url "https://github.com/Conflux-Chain/conflux-rust/releases/download/v1.1.4/conflux_mac_v1.1.4.zip"
